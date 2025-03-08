@@ -1,14 +1,12 @@
+This is my heroic yet slightly misguided attempt at creating a fun dApp on the Cardano blockchain using Aiken.
 
+Due to time and personal life constraints, I couldn’t fully complete the project for the submission date. However, to demonstrate my understanding, I’m sharing the handlers, possible functions, and types.
 
-This is my heroic yet slightly misguided attempt to create a fun dApp on the Cardano blockchain using Aiken. However, due to time and personal life constraints, I am unable to complete this project in full for the submission date. But to show that I have grasped the knowledge, I'd like to put out the handlers, possible functions, and types.
+I acknowledge that the code doesn’t compile—yes, I know, and no, I’m not a wizard... yet! But progress is progress.
 
-I acknowledge that the code fails to compile—yes, I am aware, and no, I am not a wizard... yet! But hey, progress is progress!
+My goal wasn’t to become a full-blown smart contract developer, but rather to deepen my understanding of smart contracts and eUTXO, and I’ve achieved that. One key takeaway is that on-chain code has its limits—some tasks, like reward redistribution, require an off-chain bot to trigger fund releases.
 
-My goal is to demonstrate my understanding of smart contracts while learning and adapting over time. Additionally, I recognize a limitation: reward redistribution requires a bot run off-chain to trigger the release of funds to the winners.
-
-
-
-
+This isn’t the end of my smart contract journey. I plan to clean up and compile the Aiken code, then move on to front-end development with Next.js or Svelte, whichever feels right. It’s going to be a slow and painful process, but I’ll get there... eventually.
 
 # **NicePoll: Software Requirement Specification (SRS)**
 
