@@ -4,9 +4,12 @@ Due to time and personal life constraints, I couldn’t fully complete the proje
 
 I acknowledge that the code doesn’t compile—yes, I know, and no, I’m not a wizard... yet! But progress is progress.
 
-My goal wasn’t to become a full-blown smart contract developer, but rather to deepen my understanding of smart contracts and eUTXO, and I’ve achieved that. One key takeaway is that on-chain code has its limits—some tasks, like reward redistribution, require an off-chain bot to trigger fund releases.
+My goal wasn’t to become a full-blown smart contract developer, but rather to deepen my understanding of smart contracts and my love for eUTXO, and I’ve achieved that. One key takeaway is that on-chain code has its limits—some tasks, like reward redistribution, require an off-chain bot to trigger fund releases.
 
 This isn’t the end of my smart contract journey. I plan to clean up and compile the Aiken code, then move on to front-end development with Next.js or Svelte, whichever feels right. It’s going to be a slow and painful process, but I’ll get there... eventually.
+
+![BPMN diagram of nicepoll app]([https://github.com/Pip3queak/nicepoll-ak/blob/main/nicepoll.png "BPMN of Nicepoll")
+
 
 # **NicePoll: Software Requirement Specification (SRS)**
 
