@@ -8,7 +8,7 @@ My goal wasn’t to become a full-blown smart contract developer, but rather to 
 
 This isn’t the end of my smart contract journey. I plan to clean up and compile the Aiken code, then move on to front-end development with Next.js or Svelte, whichever feels right. It’s going to be a slow and painful process, but I’ll get there... eventually.
 
-![BPMN diagram of nicepoll app]([https://github.com/Pip3queak/nicepoll-ak/blob/main/nicepoll.png "BPMN of Nicepoll")
+![BPMN diagram of nicepoll app](https://github.com/Pip3queak/nicepoll-ak/blob/main/nicepoll.png "BPMN of Nicepoll")
 
 
 # **NicePoll: Software Requirement Specification (SRS)**
